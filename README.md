@@ -61,8 +61,8 @@ run(hello_world)
 ```
 
 **#Commands**
-python reactpy_simple.py
-uvicorn reactpy_advance:app (or) python -m uvicorn reactpy_advanced:app --reload
+python reactpy_simple.py </br>
+uvicorn reactpy_advance:app </span> (or) </span> python -m uvicorn reactpy_advanced:app --reload
 
 # Resources
 
