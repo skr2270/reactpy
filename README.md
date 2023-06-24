@@ -60,10 +60,10 @@ def hello_world():
 run(hello_world)
 ```
 
-**#Commands**
-python reactpy_simple.py </br>
-uvicorn reactpy_advance:app </span> (or) </span> python -m uvicorn reactpy_advanced:app --reload
-
+**#Commands** </br>
+```python reactpy_simple.py``` </br>
+```uvicorn reactpy_advance:app``` </span> (or) </span> ```python -m uvicorn reactpy_advanced:app --reload```
+</br></br>
 # Resources
 
 Follow the links below to find out more about this project.
